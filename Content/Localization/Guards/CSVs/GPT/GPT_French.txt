@@ -1,0 +1,248 @@
+[Kick] Coup
+[Crouch] Accroupir
+[Walk] Marcher
+[Use] Utiliser
+[Move] Bouger
+[Look] Regarder
+[ViewToggle] Basculer \r\nVue
+[Attack] Attaquer!
+[Throw] Lancer!
+[Sprint] Sprinter
+[Taunt] Railler!
+[Guard] Gardien!
+[Wishlist] Ajouter à la liste de souhaits
+[AnyKey] Appuyez sur n'importe quelle touche
+[Discord] Rejoindre Discord
+[Continue] Continuer
+[Solo] Solo
+[Online] En ligne
+[Settings] Paramètres
+[Exit] Quitter
+[Credits] Crédits
+[Back] Retour
+[Confirm] Confirmer
+[Cancel] Annuler
+[Refresh] Rafraîchir
+[HostServer] HÉBERGER UNE NOUVELLE PARTIE
+[Private] Privé
+[Connect] Se connecter à l'IP
+[FindGames] Rechercher des serveurs existants
+[Restart] Redémarrer
+[Leave] Quitter le groupe
+[Title_Edit] Modifier l'apparence de la garde
+[Title_ChangeCategory] Changer la catégorie
+[Title_Armor] Armure
+[Cat_AllArmor] Toutes les armures
+[Cat_Helm] Casque
+[Cat_Torso] Torse
+[Cat_Hips] Hanches
+[Cat_LeftBoot] Botte gauche
+[Cat_RightBoot] Botte droite
+[Cat_LeftUpperArm] Bras supérieur gauche
+[Cat_LeftLowerArm] Bras inférieur gauche
+[Cat_LeftHand] Main gauche
+[Cat_RightUpperArm] Bras supérieur droit
+[Cat_RightLowerArm] Bras inférieur droit
+[Cat_RightHand] Main droite
+[Cat_LeftPauldron] Épaulette gauche
+[Cat_RightPauldron] Épaulette droite
+[Title_Other] Autre
+[Cat_Skin] Peau
+[Cat_Cape] Cape
+[Cat_Shield] Bouclier
+[Title_EditColor] Modifier la couleur
+[Resume] Reprendre
+[Restart] Redémarrer le niveau
+[Abort] Abandonner la mission
+[Servers] Serveurs
+[Friends] Amis
+[Leave] Quitter le groupe
+[Settings] Paramètres
+[Quit] Quitter le jeu
+[APC] APC
+[Tavern] Taverne
+[Armory] Arsenal
+[Captain] Salle du capitaine
+[Dungeon] Donjon
+[Kick] Coup de pied
+[Warning_Kick] Lieu de travail\r\nAvertissement :\r\n\r\nArrêtez de donner des coups de pied\r\nportes
+[Lore1] Je suis le Rédempteur, ton décret est nul !
+[Lore2] L'heure du jugement est proche, fais face à ton destin !
+[Lore3] Je suis le Rédempteur, et tu as été jugé.
+[Lore4] Je suis le juge médiéval, ton destin est scellé !
+[Lore5] En ce royaume, j'apporte l'ordre au milieu du chaos !
+[Lore6] Ta sentence est 'Deth'... rapide et définitive !
+[Lore7] Je suis le champion de la Justice, porteur de vérité !
+[Lore8] Les transgressions ne resteront pas impunies, je collecterai !
+[Lore9] Contemple mon visage de la Justice, le dernier mot de la loi !
+[Lore10] L'œil de la loi voit tout, nul ne peut échapper !
+[Lore11] La justice parcourt ces rues, le chaos s'incline !
+[Lore12] JE SUIS LA JUSTICE !
+[Lore13] En ce royaume, je suis le bouclier contre le chaos, porteur de la loi.
+[Lore14] Ta sentence : l'étreinte de la mort.
+[Lore15] Les transgressions ne te profiteront pas, car je collecterai ta dîme.
+[Lore16] Contemple le visage de la justice, ton homme de loi, ton jury.
+[Lore17] Tu ne peux échapper au regard de la loi.
+[Lore18] J'apporte la justice dans les rues sans loi, quête des gardiens.
+[Lore19] Le jugement approche !
+[Lore20] Jugé et condamné par la Garde de la Ville !
+[Lore21] La Garde de la Ville, un bouclier contre le chaos !
+[Lore22] La mort, ta sentence t'attend !
+[Lore23] La justice rendue !
+[Lore24] Le crime ne paie pas, je collecterai !
+[Lore25] Te cacher de la loi ? Non !
+[Lore26] La justice parcourt ces rues sans loi !
+[DemoBlurb] <H> "La Garde de la Ville, un bouclier contre le chaos !" </>\r\n\r\nCette <H> démo </> représente une version très préliminaire de notre jeu. Considérez-la comme étant encore très en cours de développement.\r\n\r\nGuards est conçu pour être <H> difficile. </> Les ennemis n'attendront pas pour vous attaquer un par un, et même une simple erreur peut s'avérer <h> fatale pour toute l'unité. </>. Vous êtes averti !\r\n\r\nCe jeu est créé par une <h> petite équipe de 3 personnes </>. Tous les commentaires et les bogues que vous partagez avec nous nous aident à créer un <h> meilleur jeu </>. Vous pouvez nous trouver sur le <h> discord officiel </> accessible depuis le menu principal.\r\n\r\n<H> Bienvenue dans la Garde ! </> Bonne chance !
+[DemoUpsell] Merci d'avoir joué à notre <H> démo ! </>\r\n\r\nSi vous avez apprécié GUARDS!, veuillez <H> ajouter le jeu à votre liste de souhaits sur Steam maintenant ! </> \r\n\r\nVotre soutien signifie beaucoup et <h> chaque ajout à la liste de souhaits nous aide à continuer à créer les jeux que nous aimons. </>\r\n\r\nNous avons hâte de partager le <h> jeu complet avec vous bientôt ! </>\r\n\r\nEn attendant, le HUB et les trois premières missions sont disponibles pour être rejouées !
+[GobboBad] GOBBOZ = MAUVAIS\r\n\r\nTentative d'arrestation de QUELQUES\r\n\r\nN'oubliez pas ! Les délinquants arrêtés = $$$
+[GobboBad2] Les dommages collatéraux sont acceptés\r\nmais non approuvés\r\n\r\nFeuilles de résolution de conflit\r\n\r\nEssais de softball du commissariat 19e
+[Tavern_Title] En patrouille
+[Warehouse_Title] Raid sur l'entrepôt
+[Tavern_Extracts] - Réponse à un 267 à la Taverne\r\n- Maîtriser tous les voyous
+[Tavern_Flavor] "Une journée normale au travail"
+[Warehouse_Flavor] "Les caisses suspectes nous ont menés ici - brûlez-les"
+[Warehouse_Extracts] - L'entrepôt est rempli de narcotiques\r\n- Détruire les caisses de narcotiques
+[Castle_Title] Château sur l'eau
+[Castle_Flavor] "Le contremaître du port nous a donné une piste sur le Labo Miff - Le Château"
+[Castle_Extracts] - Détruire le laboratoire de narcotiques 'Miff'\r\n- Maîtriser tous les voyous
+[Hideout_Title] Repaire des Goblinz
+[Hideout_Extracts] - Recueillir des preuves d'activité de narcotiques\r\n- Les nouvelles dans la rue disent qu'elles viennent dans des caisses
+[Hideout_Flavor] "Les caisses suspectes nous ont menés ici - brûlez-les"
+[Stronghold_Title] Forteresse des Goblinz
+[Stronghold_Flavor] "La justice sera rendue - Le chef des truands meurt ce soir"
+[Stronghold_Extracts] - Frayez-vous un chemin jusqu'à la forteresse des Goblinz\r\n- Vaincre le chef des Goblinz
+[GobboCamp_Title] Camp des Goblinz
+[GobboCamp_Extracts] - Armez-vous et nettoyez le camp des Goblin\r\n- Libérez les prisonniers
+[GobboCamp_Flavor] "Nous sommes partis pendant des semaines - ils ont pris la ville - il est temps de la reprendre"
+[EastBridge_Title] Pont de l'Est
+[EastBridge_Extracts] - Frayez-vous un chemin jusqu'à la ville - Atteignez le Bastion\r\n- Libérez les citoyens de New Alestead
+[EastBridge_Flavor] "C'est notre ville - montrez-leur ce que la Garde peut faire"
+[Docks_Title] Méga Docks
+[Docks_Flavor] "Les caisses Miff nous ont conduit ici - sécurisez le contremaître"
+[Docks_Extracts] - Appréhender le contremaître des docks\r\n- Escorter le contremaître de retour au carrosse
+[Bank_Title] Banque de Ffloyd
+[Bank_Flavor] "Les bagarreurs de la taverne avaient des ordres de rejoindre un braquage de banque... Pas sous ma garde"
+[Bank_Extracts] - Les Goblinz ont pris la banque\r\n- Maîtrisez tous les Goblinz
+[Bastion_Title] Le Bastion
+[Bastion_Flavor] "Les Goblinz préparent une attaque - N'accordez aucun quartier !!"
+[Bastion_Extracts] - Maintenir le contrôle du Bastion\r\n- Vaincre toutes les vagues d'attaquants
+[Mission_NA_1] Maintenir l'ordre
+[Mission_NA_2] Arrêter le chef du braquage
+[Mission_NA_3] Détruire les narcotiques
+[Mission_NA_4] Trouver la chaîne d'approvisionnement
+[Mission_NA_5] Arrêter le contremaître des docks
+[Mission_NA_6] Détruire le laboratoire Miff
+[Mission_NA_7] Échapper au camp
+[Mission_NA_8] Reprendre la ville
+[Mission_NA_9] Défendre le Bastion
+[Mission_NA_10] Vaincre le chef des Goblinz
+[Obj_APC] Entrer dans l'APC
+[Obj_LeaveSector] Quitter le secteur
+[Obj_NA_2] Voyous restants
+[Obj_NA_1] Voyous restants
+[Obj_NA_3] Détruire les narcotiques
+[Obj_NA_4] Apporter des preuves à l'APC
+[Obj_NA_5] Escorter le contremaître vers l'APC
+[Obj_NA_6] Détruire la contrebande et maîtriser les voyous
+[Obj_NA_7] Nettoyer le camp des Goblin
+[Obj_NA_8] Libérer les otages
+[Obj_NA_9] Survivre aux vagues
+[Obj_NA_10] Appréhender le chef des Goblinz
+[Hub_WarTable] Démarrer la mission à la table de guerre
+[Side_Tickets] Optionnel : Placer les tickets
+[MiffDocks] EXPÉDITION\r\nMIFF\r\nAUX DOCKS\r\nCOUCHER DE SOLEIL
+[HealthAndSafety] INFRACTION À LA\r\nSANTÉ ET À LA SÉCURITÉ\r\nAmende 20g
+[Plague] RISQUE DE PESTE\r\n\r\nAmende 20g
+[Noise] PLAINTES DE BRUIT\r\n\r\nAmende 20g
+[Eviction] AVIS D'EXPULSION\r\n\r\nAmende 20g
+[Contraband] CONTREBANDE\r\n\r\nAmende 20g
+[CeaseDesist] CESSER ET DESISTER\r\n\r\nAmende 20g
+[Parking] STATIONNEMENT ILLÉGAL\r\n\r\nAmende 20g
+[Canvasing] CANVASSAGE ILLÉGAL\r\n\r\nAmende 10g
+[Mouse] Sensibilité de la souris
+[Gamepad] Sensibilité du gamepad
+[InvertY] Inverser Y
+[InvertX] Inverser X
+[Blood] Afficher le sang
+[Sprint] tenir le sprint
+[Audio_Master] Principal
+[Audio_Music] Musique
+[Audio_Game] Jeu
+[Audio_UI] Interface utilisateur
+[Audio_AmbA] Ambiance A
+[Audio_AmbB] Ambiance B
+[Setting_True] Vrai
+[Setting_False] Faux
+[Video] Vidéo
+[Game] Jeu & Audio
+[Gamma] Gamma
+[FOV] Champ de vision
+[Res] Résolution
+[Window] Mode fenêtre
+[FPS] FPS max
+[VSync] Synchronisation verticale
+[ResScale] Échelle de résolution
+[ViewDist] Distance de vue
+[AA] Anti crénelage
+[PP] Post-traitement
+[Shadows] Ombres
+[Textures] Textures
+[Effects] Effets
+[Setting_On] Activé
+[WM_B] En mode sans bordure
+[WM_W] En mode fenêtré
+[WM_F] En plein écran
+[Setting_Off] Désactivé
+[MotionBlur] Flou de mouvement
+[Foliage] Végétation
+[Bloom] Lueur
+[Setting_Low] Faible
+[Setting_Medium] Moyen
+[Setting_High] Élevé
+[Setting_Epic] Épique
+[SteamOn] En ligne sur Steam !
+[SteamOff] Hors ligne sur Steam !
+[ExitGame] Quitter le jeu ?
+[Title_Game] Jeu
+[Title_Audio] Audio
+[Title_Friends] Liste des gardiens
+[Title_Host] Hôte
+[Title_Join] Rejoindre
+[Title_Playing] En cours de jeu
+[Title_Offline] Hors ligne
+[Title_Online] En ligne
+[SearchFailed] Recherche échouée
+[Searching] Recherche en cours
+[TimeLeft] Temps restant
+[Spectating] Spectateur
+[Host] Hôte
+[Client] Client
+[Solo] Solo
+[NoServers] Aucun serveur
+[MissionComplete] Mission accomplie !
+[MissionFailed] Mission échouée !
+[NewRecord] Nouveau record !
+[Time] Temps
+[BestTime] Meilleur temps
+[Coin_Mission] Mission
+[Coin_Guard] Devoir de garde
+[Coin_Other] 'Trouvé'
+[Guards] Gardes
+[Guard] Garde
+[Total] Total
+[Perps] Délinquants
+[Collateral] Dommages collatéraux
+[Revive] En attente de réanimation
+[NoShield] Pas de bouclier
+[Kick] Coup de pied
+[Crouch] Accroupir
+[Walk] Marcher
+[Use] Utiliser
+[Move] Bouger
+[Look] Regarder
+[ViewToggle] Basculer \r\nVue
+[Attack] Attaquer!
+[Throw] Lancer!
+[Sprint] Sprinter
+[Taunt] Railler!
+[Guard] Gardien!

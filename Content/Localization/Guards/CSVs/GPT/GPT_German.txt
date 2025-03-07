@@ -1,0 +1,246 @@
+[Kick] Tritt
+[Crouch] Ducken
+[Walk] Gehen
+[Use] Benutzen
+[Move] Bewegen
+[Look] Schauen
+[ViewToggle] Ansicht umschalten
+[Attack] Angreifen
+[Throw] Werfen
+[Sprint] Sprinten
+[Taunt] Spotten
+[Guard] Wache!
+[Wishlist] Jetzt wünschen!
+[AnyKey] Beliebige Taste drücken
+[Discord] Dem Discord beitreten
+[Continue] Fortsetzen
+[Solo] Einzelspieler
+[Online] Online
+[Settings] Einstellungen
+[Exit] Beenden
+[Credits] Credits
+[Back] Zurück
+[Confirm] Bestätigen
+[Cancel] Abbrechen
+[Refresh] Aktualisieren
+[HostServer] NEUES SPIEL HOSTEN
+[Private] Privat
+[Connect] Mit IP verbinden
+[FindGames] Existierende Server finden
+[Title_Edit] Wache anpassen
+[Title_ChangeCategory] Kategorie ändern
+[Title_Armor] Rüstung
+[Cat_AllArmor] Alle Rüstungen
+[Cat_Helm] Helm
+[Cat_Torso] Oberkörper
+[Cat_Hips] Hüften
+[Cat_LeftBoot] Linker Stiefel
+[Cat_RightBoot] Rechter Stiefel
+[Cat_LeftUpperArm] Linker Oberarm
+[Cat_LeftLowerArm] Linker Unterarm
+[Cat_LeftHand] Linke Hand
+[Cat_RightUpperArm] Rechter Oberarm
+[Cat_RightLowerArm] Rechter Unterarm
+[Cat_RightHand] Rechte Hand
+[Cat_LeftPauldron] Linker Schulterpanzer
+[Cat_RightPauldron] Rechter Schulterpanzer
+[Title_Other] Andere
+[Cat_Skin] Haut
+[Cat_Cape] Umhang
+[Cat_Shield] Schild
+[Title_EditColor] Farbe anpassen
+[Resume] Fortsetzen
+[Restart] Level neu starten
+[Abort] Mission abbrechen
+[Servers] Server
+[Friends] Freunde
+[Leave] Gruppe verlassen
+[Settings] Einstellungen
+[Quit] Spiel verlassen
+[APC] APC
+[Tavern] Taverne
+[Armory] Waffenkammer
+[Captain] Hauptmanns Zimmer
+[Dungeon] Kerker
+[Kick] Tritt
+[Warning_Kick] Arbeitsplatz\r\nWarnung:\r\n\r\nHör auf\r\nTüren zu treten
+[Lore1] Ich bin der Gesetzeshüter, dein Dekret ist nichtig!
+[Lore2] Die Zeit des Urteils ist nah, stell dich deinem Schicksal!
+[Lore3] Ich bin der Gesetzeshüter, und du wurdest gerichtet.
+[Lore4] Ich bin der mittelalterliche Richter, dein Schicksal ist besiegelt!
+[Lore5] In dieser Welt bringe ich Ordnung inmitten des Chaos!
+[Lore6] Dein Urteil lautet 'Tod'... schnell und endgültig!
+[Lore7] Ich bin der Champion der Gerechtigkeit, Träger der Wahrheit!
+[Lore8] Übertretungen werden nicht ungesühnt bleiben, ich werde eintreiben!
+[Lore9] Sieh mein Gesicht der Gerechtigkeit, das letzte Wort des Gesetzes!
+[Lore10] Das Auge des Gesetzes sieht alles, keine Flucht!
+[Lore11] Die Gerechtigkeit zieht durch diese Straßen, das Chaos verneigt sich!
+[Lore12] ICH BIN DIE GERECHTIGKEIT!
+[Lore13] In dieser Welt bin ich der Schild gegen das Chaos, bewaffnet mit dem Gesetz.
+[Lore14] Dein Urteil: Umarmung des Todes.
+[Lore15] Übertretungen werden dir nicht nutzen, denn ich werde deinen Tribut einfordern.
+[Lore16] Sieh das Gesicht der Gerechtigkeit, deinen Gesetzeshüter, deine Jury.
+[Lore17] Du kannst dem Blick des Gesetzes nicht entkommen.
+[Lore18] Ich bringe Gerechtigkeit in gesetzlose Straßen, die Aufgabe eines Wächters.
+[Lore19] Das Urteil naht!
+[Lore20] Vom Stadtwächter verurteilt und verdammt!
+[Lore21] Die Stadtwache, ein Schild gegen das Chaos!
+[Lore22] Der Tod, dein Urteil erwartet dich!
+[Lore23] Gerechtigkeit wird vollstreckt!
+[Lore24] Verbrechen zahlt sich nicht aus, ich werde eintreiben!
+[Lore25] Versteckst du dich vor dem Gesetz? Nein!
+[Lore26] Die Gerechtigkeit zieht durch diese gesetzlosen Straßen!
+[DemoBlurb] <H>"Die Stadtwache, ein Schild gegen das Chaos!"</>\r\n\r\nDiese <H>Demo</> stellt eine sehr frühe Version unseres Spiels dar. Betrachte es als sehr, sehr work in progress.\r\n\r\nGuards ist darauf ausgelegt, <H>schwer zu sein.</> Feinde werden nicht warten, dich nacheinander anzugreifen, und schon ein einfacher Fehler kann <h>für die ganze Gruppe tödlich sein</>. Du wurdest gewarnt!\r\n\r\nDieses Spiel wurde von einem <h>winzigen Team von 3 Personen</> gemacht. Jedes Feedback und jeder von dir gemeldete Fehler hilft uns dabei, ein <h>besseres Spiel zu entwickeln</>. Du findest uns im <h>offiziellen Discord</>, erreichbar über das Hauptmenü.\r\n\r\n<H>Willkommen bei der Stadtwache!</> Viel Glück!
+[DemoUpsell] Vielen Dank, dass du unsere <H>Demo</> gespielt hast!\r\n\r\nWenn dir GUARDS! gefallen hat, <H>setze das Spiel jetzt auf deine Wunschliste bei Steam!</> \r\n\r\nDeine Unterstützung bedeutet uns viel und <h>jeder Eintrag in die Wunschliste hilft uns dabei, die Spiele, die wir lieben, weiterzuentwickeln.</>\r\n\r\nWir freuen uns darauf, das <h>vollständige Spiel bald mit dir zu teilen!</>\r\n\r\nIn der Zwischenzeit sind der HUB und die ersten drei Missionen verfügbar, um sie erneut zu spielen!
+[GobboBad] GOBBOS = SCHLECHT\r\n\r\nVersuch, EINIGE zu verhaften\r\n\r\nDenk daran! Verhaftete Übertreter = $$$
+[GobboBad2] Kollateralschäden werden akzeptiert, aber nicht gebilligt\r\n\r\nKonfliktlösungsarbeitsblätter\r\n\r\nVorsicht beim Softball-Training am 19.
+[Tavern_Title] Auf Streife
+[Warehouse_Title] Lagerhaus-Razzia
+[Tavern_Extracts] - Antwort auf einen 267 in der Taverne\r\n- Alle Übertreter unterwerfen
+[Tavern_Flavor] 'Ein gewöhnlicher Tag im Dienst'
+[Warehouse_Flavor] 'Die verdächtigen Kisten haben uns hierher geführt - verbrenne sie'
+[Warehouse_Extracts] - Das Lagerhaus ist voller Betäubungsmittel\r\n- Betäubungsmittelkisten zerstören
+[Castle_Title] Schloss am Wasser
+[Castle_Flavor] 'Der Hafenarbeiter hat uns auf das Miff-Labor hingewiesen - Das Schloss'
+[Castle_Extracts] - Zerstöre das Betäubungsmittel 'Miff'-Labor\r\n- Alle Übertreter unterwerfen
+[Hideout_Title] Goblin-Versteck
+[Hideout_Extracts] - Sammle Beweise für Drogenaktivitäten\r\n- Gerüchten zufolge kommen sie in Kisten
+[Hideout_Flavor] 'Die verdächtigen Kisten haben uns hierher geführt - verbrenne es'
+[Stronghold_Title] Goblin-Festung
+[Stronghold_Flavor] 'Gerechtigkeit wird vollstreckt - Der Pate stirbt heute Nacht'
+[Stronghold_Extracts] - Kämpfe deinen Weg zur Goblin-Festung\r\n- Besiege den Paten
+[GobboCamp_Title] Goblin-Lager
+[GobboCamp_Extracts] - Bewaffne dich und räume das Goblin-Lager auf\r\n- Befreie die Gefangenen
+[GobboCamp_Flavor] 'Wir waren wochenlang draußen - sie haben die Stadt übernommen - Zeit, sie zurückzuerobern'
+[EastBridge_Title] Ostbrücke
+[EastBridge_Extracts] - Kämpfe dich in die Stadt - Erreiche die Bastion\r\n- Befreie die Bürger von Neustadt Alestead
+[EastBridge_Flavor] 'Das ist unsere Stadt - Zeig ihnen, was die Stadtwache kann'
+[Docks_Title] Mega-Docks
+[Docks_Flavor] 'Die Miff-Kisten-Lieferkette hat uns hierher geführt - sichere den Vorarbeiter'
+[Docks_Extracts] - Verhaften des Docks-Vorarbeiters\r\n- Begleite den Vorarbeiter zurück zum Wagen
+[Bank_Title] Ffloyd's Bank
+[Bank_Flavor] 'Die Schläger aus der Taverne hatten den Auftrag, an einem Bankraub teilzunehmen... \r\nNicht in meiner Wache'
+[Bank_Extracts] - Die Goblinz haben die Bank übernommen\r\n- Alle Goblinz unterwerfen
+[Bastion_Title] Die Bastion
+[Bastion_Flavor] 'Die Goblinz starten einen Angriff - Kein Erbarmen!!'
+[Bastion_Extracts] - Kontrolle über die Bastion behalten\r\n- Alle Angriffswellen besiegen
+[Mission_NA_1] Ordnung aufrechterhalten
+[Mission_NA_2] Den Anführer des Raubüberfalls verhaften
+[Mission_NA_3] Drogen zerstören
+[Mission_NA_4] Die Lieferkette finden
+[Mission_NA_5] Den Vorarbeiter am Dock verhaften
+[Mission_NA_6] Das Miff-Labor zerstören
+[Mission_NA_7] Das Lager verlassen
+[Mission_NA_8] Die Stadt zurückerobern
+[Mission_NA_9] Die Bastion verteidigen
+[Mission_NA_10] Den Goblinz-Häuptling besiegen
+[Obj_APC] In den APC einsteigen
+[Obj_LeaveSector] Sektor verlassen
+[Obj_NA_2] Übertreter verbleiben
+[Obj_NA_1] Übertreter verbleiben
+[Obj_NA_3] Drogen zerstören
+[Obj_NA_4] Beweise zum APC bringen
+[Obj_NA_5] Den Vorarbeiter zum APC eskortieren
+[Obj_NA_6] Konterbande zerstören & Übertreter unterwerfen
+[Obj_NA_7] Das Goblin-Lager räumen
+[Obj_NA_8] Die Geiseln befreien
+[Obj_NA_9] Wellen überleben
+[Obj_NA_10] Den Goblinz-Häuptling festnehmen
+[Hub_WarTable] Mission am Kriegstisch starten
+[Side_Tickets] Optional: Tickets platzieren
+[MiffDocks] MIFF\r\nLIEFERUNG\r\nAM DOCK\r\nSONNENUNTERGANG
+[HealthAndSafety] GESUNDHEIT\r\nUND SICHERHEIT\r\nVERLETZUNG\r\nGeldstrafe 20g
+[Plague] SEUCHE\r\nRISIKO\r\n\r\nGeldstrafe 20g
+[Noise] LÄRM\r\nBESCHWERDE\r\n\r\nGeldstrafe 20g
+[Eviction] KÜNDIGUNG\r\n\r\nGeldstrafe 20g
+[Contraband] KONTRABAND\r\n\r\nGeldstrafe 20g
+[CeaseDesist] EINSTELLEN\r\nUND EINSTELLEN\r\n\r\nGeldstrafe 20g
+[Parking] ILLEGALES\r\nPARKEN\r\n\r\nGeldstrafe 20g
+[Canvasing] ILLEGALE\r\nHAUSTÜRBESUCHE\r\n\r\nGeldstrafe 10g
+[Mouse] Mausempfindlichkeit
+[Gamepad] Gamepad-Empfindlichkeit
+[InvertY] Y-Invertierung
+[InvertX] X-Invertierung
+[Blood] Blut anzeigen
+[Sprint] Sprinten halten
+[Audio_Master] Gesamt
+[Audio_Music] Musik
+[Audio_Game] Spiel
+[Audio_UI] Benutzeroberfläche
+[Audio_AmbA] Umgebung A
+[Audio_AmbB] Umgebung B
+[Setting_True] Wahr
+[Setting_False] Falsch
+[Video] Video
+[Game] Spiel & Audio
+[Gamma] Gamma
+[FOV] Sichtfeld
+[Res] Auflösung
+[Window] Fenstermodus
+[FPS] Max. FPS
+[VSync] Vertikale Synchronisation
+[ResScale] Auflösungsskala
+[ViewDist] Sichtweite
+[AA] Kantenglättung
+[PP] Postprocessing
+[Shadows] Schatten
+[Textures] Texturen
+[Effects] Effekte
+[Setting_On] Ein
+[WM_B] Randlos
+[WM_W] Fenstermodus
+[WM_F] Vollbildmodus
+[Setting_Off] Aus
+[MotionBlur] Bewegungsunschärfe
+[Foliage] Vegetation
+[Bloom] Blenden
+[Setting_Low] Niedrig
+[Setting_Medium] Mittel
+[Setting_High] Hoch
+[Setting_Epic] Episch
+[SteamOn] Steam Online!
+[SteamOff] Steam Offline!
+[ExitGame] Spiel beenden?
+[Title_Game] Spiel
+[Title_Audio] Audio
+[Title_Friends] Wächterliste
+[Title_Host] Hosten
+[Title_Join] Beitreten
+[Title_Playing] Spielen
+[Title_Offline] Offline
+[Title_Online] Online
+[SearchFailed] Suche fehlgeschlagen
+[Searching] Suche
+[TimeLeft] Verbleibende Zeit
+[Spectating] Zuschauen
+[Host] Hosten
+[Client] Client
+[Solo] Einzelspieler
+[NoServers] Keine Server
+[MissionComplete] Mission abgeschlossen!
+[MissionFailed] Mission gescheitert!
+[NewRecord] Neue Bestzeit!
+[Time] Zeit
+[BestTime] Beste Zeit
+[Coin_Mission] Mission
+[Coin_Guard] Wachdienst
+[Coin_Other] 'Gefunden'
+[Guards] Wachen
+[Guard] Wache
+[Total] Gesamt
+[Perps] Übertreter
+[Collateral] Kollateralschaden
+[Revive] Warten auf Wiederbelebung
+[NoShield] Kein Schild
+[Kick] Tritt
+[Crouch] Ducken
+[Walk] Gehen
+[Use] Benutzen
+[Move] Bewegen
+[Look] Schauen
+[ViewToggle] Ansicht umschalten
+[Attack] Angreifen
+[Throw] Werfen
+[Sprint] Sprinten
+[Taunt] Spotten
+[Guard] Wache

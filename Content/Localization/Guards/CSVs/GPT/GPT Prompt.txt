@@ -1,0 +1,9 @@
+Translate the list using these rules:
+
+- The first word on each new line is the KEY, the KEY should be wrapped with [] and should not be translated.
+- All words after the key must be translated to French
+- Retain all existing markup (such as \r \n <H> </> and ")
+- Put it all inside a code block
+
+Use the format:
+[KEY] Translation

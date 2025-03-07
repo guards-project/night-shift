@@ -1,0 +1,10 @@
+Key,SourceString
+"MiffDocks","MIFF\r\nSHIPMENT\r\nAT DOCKS\r\nSUNSET"
+"HealthAndSafety","HEALTH\r\nAND\r\nSAFETY\r\nVIOLATION\r\nFine 20g"
+"Plague","PLAGUE\r\nRISK\r\n\r\nFine 20g"
+"Noise","NOISE\r\nCOMPLAINT\r\n\r\nFine 20g"
+"Eviction","EVICTION\r\nNOTICE\r\n\r\nFine 20g"
+"Contraband","CONTRABAND\r\n\r\nFine 20g"
+"CeaseDesist","CEASE\r\nAND\r\nDESIST\r\n\r\nFine 20g"
+"Parking","ILLEGAL\r\nPARKING\r\n\r\nFine 20g"
+"Canvasing","ILLEGAL\r\nCANVASING\r\n\r\nFine 10g"

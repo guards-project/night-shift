@@ -1,0 +1,235 @@
+[Kick] キック
+[Crouch] しゃがむ
+[Walk] 歩く
+[Use] 使用
+[Move] 移動
+[Look] 見る
+[ViewToggle] トグル表示
+[Attack] 攻撃！
+[Throw] 投げる！
+[Sprint] スプリント
+[Taunt] 嘲笑！
+[Guard] ガード！
+[Wishlist] ほしい物リストへ
+[AnyKey] 任意のキーを押す
+[Discord] Discordに参加
+[Continue] 続行
+[Solo] ソロ
+[Online] オンライン
+[Settings] 設定
+[Exit] 終了
+[Credits] クレジット
+[Back] 戻る
+[Confirm] 確認
+[Cancel] キャンセル
+[Refresh] 更新
+[HostServer] 新しいゲームをホスト
+[Private] プライベート
+[Connect] IPに接続
+[FindGames] 既存のサーバーを探す
+[Leave] パーティーを退出
+[Title_Edit] 警備員の外見を編集
+[Title_ChangeCategory] カテゴリを変更
+[Title_Armor] 鎧
+[Cat_AllArmor] すべての鎧
+[Cat_Helm] ヘルム
+[Cat_Torso] 胴体
+[Cat_Hips] ヒップ
+[Cat_LeftBoot] 左のブーツ
+[Cat_RightBoot] 右のブーツ
+[Cat_LeftUpperArm] 左の上腕
+[Cat_LeftLowerArm] 左の前腕
+[Cat_LeftHand] 左の手
+[Cat_RightUpperArm] 右の上腕
+[Cat_RightLowerArm] 右の前腕
+[Cat_RightHand] 右の手
+[Cat_LeftPauldron] 左のポールドロン
+[Cat_RightPauldron] 右のポールドロン
+[Title_Other] その他
+[Cat_Skin] スキン
+[Cat_Cape] ケープ
+[Cat_Shield] シールド
+[Title_EditColor] 色を編集
+[Resume] 再開
+[Restart] レベルを再スタート
+[Abort] ミッションを中止
+[Servers] サーバー
+[Friends] フレンズ
+[Leave] パーティーを退出
+[Settings] 設定
+[Quit] ゲームを終了
+[APC] APC
+[Tavern] 酒場
+[Armory] 武器庫
+[Captain] 艦長の部屋
+[Dungeon] 地下牢
+[Warning_Kick] 警告：ドアを蹴るのを止めろ
+[Lore1] 私はロウブリンガー、汝の命令は無効だ！
+[Lore2] 審判の時が来た、汝の運命に向き合え！
+[Lore3] 私はロウブリンガー、汝はすでに判断された。
+[Lore4] 私は中世の裁判官、汝の運命は封じられた！
+[Lore5] この領域では、私は混沌の中で秩序をもたらす！
+[Lore6] 汝の判決は「死」だ...迅速かつ最終的に！
+[Lore7] 私は正義の勇者、真実の使者だ！
+[Lore8] 違反行為は許されず、私は貴様の取り立てをするだろう！
+[Lore9] 正義の顔を見よ、法の最終の言葉だ！
+[Lore10] 法の目はすべてを見ており、逃げ場はない！
+[Lore11] 正義がこれらの通りを駆け巡り、混沌がくぐり抜ける！
+[Lore12] 私は正義だ！
+[Lore13] この領域では、法の盾として、法を振るう！
+[Lore14] 汝の判決：死の抱擁だ。
+[Lore15] 違反行為は汝に利益をもたらさない、私は汝の負債を取り立てるだろう。
+[Lore16] 正義の顔を見よ、法の番人、汝の審判官だ。
+[Lore17] 汝は法の視線をかいくぐることはできない。
+[Lore18] 私は法のない通りに正義をもたらす、警備員の使命だ。
+[Lore19] 審判が迫る！
+[Lore20] シティーガードによって判断され、有罪とされた！
+[Lore21] シティーガード、混乱に対する盾だ！
+[Lore22] 死、汝の判決が待っている！
+[Lore23] 正義が行き渡った！
+[Lore24] 犯罪は報われない、私が取り立てるだろう！
+[Lore25] 法から逃げることはできない！
+[Lore26] 正義がこれらの法のない通りを駆け巡り、駆逐する！
+[DemoBlurb] <H>「シティーガード、混乱に対する盾だ！」</>\r\n\r\nこの<H>デモ</>は、ゲームの非常に初期のバージョンを表しています。非常に、非常に進行中の作業と考えてください。\r\n\r\n「Guards」は<H>難しい</>ゲームであることが設計されています。敵は待っていてくれませんし、単純なミスでも<H>全隊に致命的</>となる可能性があります。警告しました！\r\n\r\nこのゲームは<H>3人の小さなチーム</>によって作られています。共有していただいたフィードバックやバグは、より良いゲームを作るのに役立ちます。公式ディスコードはメインメニューからアクセス可能です。\r\n\r\n<H>ガードへようこそ！</> がんばってください！
+[DemoUpsell] デモをプレイしていただきありがとうございます！\r\n\r\n「GUARDS！」が楽しめた場合、Steamでゲームを<H>ぜひほしい物リストに追加してください！</> \r\n\r\nご支援は非常に価値があり、<H>ほしい物リストが増えるたびに、私たちは愛するゲームの制作を続けることができます。</>\r\n\r\nその間、HUBと最初の3つのミッションを再プレイできます！
+[GobboBad] ゴブボ = 悪
+[GobboBad2] 副作用が許容されますが、容認されません
+[GobboBad2] 衝突解決のワークシート
+[Tavern_Title] ビートを叩け
+[Warehouse_Title] 倉庫を襲撃
+[Tavern_Extracts] - タヴァーンでの267への対応\r\n- すべての犯人を制圧
+[Tavern_Flavor] '仕事の日'
+[Warehouse_Flavor] '怪しい木箱がここに導いた - 燃やせ'
+[Warehouse_Extracts] - 倉庫は麻薬でいっぱい\r\n- 麻薬の木箱を壊せ
+[Castle_Title] 水の城
+[Castle_Flavor] '港の管理者は私たちにミフ・ラボの手がかりをくれた - 城'
+[Castle_Extracts] - 麻薬「ミフ」ラボを破壊\r\n- すべての犯人を制圧
+[Hideout_Title] ゴブリンのアジト
+[Hideout_Extracts] - 麻薬の活動の証拠を収集\r\n- 通りでは木箱で入ってくるという情報がある
+[Hideout_Flavor] '怪しい木箱がここに導いた - 燃やせ'
+[Stronghold_Title] ゴブリンの拠点
+[Stronghold_Flavor] '正義がもたらされる - キングピンは今夜死ぬ'
+[Stronghold_Extracts] - ゴブリンの拠点までの戦い\r\n- キングピンを倒せ
+[GobboCamp_Title] ゴブリンのキャンプ
+[GobboCamp_Extracts] - 武装してゴブリンキャンプを制圧\r\n- 人質を解放
+[GobboCamp_Flavor] '私たちは数週間外出していました - 彼らが街を占拠した - 取り戻す時'
+[EastBridge_Title] 東の橋
+[EastBridge_Extracts] - 街に突入し、バスティオンに到達\r\n- ニューアルステッドの市民を解放
+[EastBridge_Flavor] 'これは私たちの街だ - ガードができることを見せてやれ'
+[Docks_Title] メガドックス
+[Docks_Flavor] 'ミフの木箱の供給チェーンがここに導いた - 拠点を確保'
+[Docks_Extracts] - ドックの管理者を逮捕\r\n- 管理者を馬車にエスコート
+[Bank_Title] フロイズ銀行
+[Bank_Flavor] '酒場のけんか屋たちは銀行強盗に参加するよう命じられました... 私の見張りではありません'
+[Bank_Extracts] - ゴブリンズが銀行を占拠\r\n- ゴブリンズを制圧
+[Bastion_Title] バスティオン
+[Bastion_Flavor] 'ゴブリンズは攻撃を仕掛けてきている - 一歩も譲るな！'
+[Bastion_Extracts] - バスティオンの支配を維持\r\n- すべての攻撃波を撃退
+[Mission_NA_1] 順序を保つ
+[Mission_NA_2] 強盗の指導者を逮捕
+[Mission_NA_3] 麻薬を破壊
+[Mission_NA_4] 供給チェーンを見つける
+[Mission_NA_5] ドックの管理者を逮捕
+[Mission_NA_6] ミフラボを破壊
+[Mission_NA_7] キャンプから脱出
+[Mission_NA_8] 街を取り戻す
+[Mission_NA_9] バスティオンを防衛
+[Mission_NA_10] ゴブリンズの長を倒す
+[Obj_APC] APCに入る
+[Obj_LeaveSector] セクターを離れる
+[Obj_NA_2] 残りの犯人
+[Obj_NA_1] 残りの犯人
+[Obj_NA_3] 麻薬を破壊
+[Obj_NA_4] 証拠をAPCに持ってくる
+[Obj_NA_5] 管理者をAPCにエスコート
+[Obj_NA_6] 対策品を破壊し、犯人を制圧
+[Obj_NA_7] ゴブリンキャンプを制圧
+[Obj_NA_8] 人質を解放
+[Obj_NA_9] 波に耐える
+[Obj_NA_10] ゴブリンズの首領を逮捕
+[Hub_WarTable] 戦争のテーブルでミッションを開始
+[Side_Tickets] オプション：切符を置く
+[MiffDocks] 夕焼けのドックでのMIFF輸送
+[HealthAndSafety] 健康と安全違反\r\n罰金 20g
+[Plague] 伝染病リスク\r\n\r\n罰金 20g
+[Noise] 騒音クレーム\r\n\r\n罰金 20g
+[Eviction] 退去通知\r\n\r\n罰金 20g
+[Contraband] 対抗品\r\n\r\n罰金 20g
+[CeaseDesist] 中止と拒絶\r\n\r\n罰金 20g
+[Parking] 違法な駐車\r\n\r\n罰金 20g
+[Canvasing] 違法な宣伝\r\n\r\n罰金 10g
+[Mouse] マウス感度
+[Gamepad] ゲームパッド感度
+[InvertY] Y軸反転
+[InvertX] X軸反転
+[Blood] 血液表示
+[Sprint] スプリントを保持
+[Audio_Master] マスター
+[Audio_Music] 音楽
+[Audio_Game] ゲーム
+[Audio_UI] UI
+[Audio_AmbA] 環境A
+[Audio_AmbB] 環境B
+[Setting_True] 有効
+[Setting_False] 無効
+[Video] ビデオ
+[Game] ゲームとオーディオ
+[Gamma] ガンマ
+[FOV] 視野角
+[Res] 解像度
+[Window] ウィンドウモード
+[FPS] 最大FPS
+[VSync] 垂直同期
+[ResScale] 解像度スケール
+[ViewDist] 表示距離
+[AA] アンチエイリアシング
+[PP] ポストプロセス
+[Shadows] 影
+[Textures] テクスチャ
+[Effects] エフェクト
+[Setting_On] オン
+[WM_B] ウィンドウボーダレス
+[WM_W] ウィンドウモード
+[WM_F] フルスクリーン
+[Setting_Off] オフ
+[MotionBlur] モーションブラー
+[Foliage] 草
+[Bloom] ブルーム
+[Setting_Low] 低
+[Setting_Medium] 中
+[Setting_High] 高
+[Setting_Epic] エピック
+[SteamOn] Steam オンライン！
+[SteamOff] Steam オフライン！
+[ExitGame] ゲームを終了しますか？
+[Title_Game] ゲーム
+[Title_Audio] オーディオ
+[Title_Friends] ガードロスター
+[Title_Host] ホスト
+[Title_Join] 参加
+[Title_Playing] プレイ中
+[Title_Offline] オフライン
+[Title_Online] オンライン
+[SearchFailed] 検索に失敗しました
+[Searching] 検索中
+[TimeLeft] 残り時間
+[Spectating] 観戦中
+[Host] ホスト
+[Client] クライアント
+[Solo] ソロ
+[NoServers] サーバーなし
+[MissionComplete] ミッション完了！
+[MissionFailed] ミッション失敗！
+[NewRecord] 新記録！
+[Time] 時間
+[BestTime] 最高時間
+[Coin_Mission] ミッション
+[Coin_Guard] 警備員任務
+[Coin_Other] '見つかりました'
+[Guards] ガード
+[Guard] 警備員
+[Total] 合計
+[Perps] 犯人
+[Collateral] 代替
+[Revive] リヴァイブを待つ
+[NoShield] シールドなし
